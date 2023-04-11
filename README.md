@@ -1,5 +1,7 @@
 ## Mago vs Cavaleiro
 
+<h3> Instruções: </h3>
+
 Um Mago e um Cavaleiro se desafiaram para uma batalha. Nessa aventura você é o Mago.
 Um numero aleatório será gerado e você deve adivilhar se este será "impar" ou  "par".
 Cada personagem começa com 3 pontos de vida.
@@ -15,3 +17,5 @@ Divirta-se!
 ![Captura de tela 2023-04-11 134743](https://user-images.githubusercontent.com/126510263/231240004-d0c2aa17-b936-4bdc-8f37-6c5fca57b106.png)
 
 </div>
+
+##
